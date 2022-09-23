@@ -1,4 +1,4 @@
-# **Hello there**
+# **Hello there** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 🙌 I'm @otsu
 - 👀 I’m interested in **programmming** and **data manipulation language**
 - 🌱 I’m currently learning JavaScript and PHP
