@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning JavaScript and PHP
 - 📫 Contact me on Discord *otsu#4214*
 - 🌙 I know French and English and a bit of Spanish
+- ⌛ Some projetcs are coming soon
 
 <h3 align="center">
 Languages and softwares that I use
