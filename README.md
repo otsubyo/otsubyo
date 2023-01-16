@@ -17,11 +17,13 @@ Languages and softwares that I use
   <img src="https://skillicons.dev/icons?i=html,git,css,c,discord,ps,vscode,py,java,linux,php," />
   
   </a>
-</p>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otsubyo&show_icons=true&theme=aura)
 
-
+<h3 align="left">Contact me:</h3>
+<a href="https://linkedin.com/in/fabio-bentaïla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabio-bentaïla" height="30" width="40" /></a>
+</p>
 
 
 
