@@ -6,6 +6,7 @@
 - 📫 Contact me on Discord *otsu#4214*
 - ⌛ Some projects are coming soon
 
+
 <h3 align="center">
 Languages and softwares that I use
 </h3>
@@ -17,7 +18,10 @@ Languages and softwares that I use
   
   </a>
 </p>
-  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otsubyo&show_icons=true&theme=aura)
+
+
 
 
 
