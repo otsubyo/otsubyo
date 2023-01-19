@@ -19,10 +19,10 @@ Languages and softwares that I use
   </a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otsubyo&show_icons=true&theme=aura)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=otsubyo&show_icons=true&theme=aura)
 
 <h3 align="left">Contact me:</h3>
-<a href="https://linkedin.com/in/fabio-bentaïla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabio-bentaïla" height="30" width="40" /></a>
+<a href="https://linkedin.com/inn/carlpremi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carl-premi" height="30" width="40" /></a>
 </p>
 
 
