@@ -12,11 +12,11 @@ Languages and softwares that I use
 </h3>
 <p align="center">
 
-  <a href="https://skillicons.dev">
+ <a href="https://skillicons.dev">
   
-  <img src="https://skillicons.dev/icons?i=html,git,css,c,discord,ps,vscode,py,java,linux,php," />
+ <img align="center" img src="https://skillicons.dev/icons?i=html,git,css,c,discord,ps,vscode,py,java,linux,php,"/>
   
-  </a>
+ </a>
 
 | <a href="https://github.com/otsbyo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=otsu77&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/otsu77/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otsu77&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
