@@ -18,12 +18,13 @@ Languages and softwares that I use
   
   </a>
 
-
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=otsubyo&show_icons=true&theme=aura)
-
+| <a href="https://github.com/otsbyo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=otsubyo&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/otsubyo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otsubyo&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
+  
 <h3 align="left">Contact me:</h3>
 <a href="https://linkedin.com/in/carlpremi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carl-premi" height="30" width="40" /></a>
 </p>
+
 
 
 
