@@ -2,8 +2,7 @@
 - 🙌 I'm @otsu
 - 👀 I’m interested in **programmming** and **data manipulation language**
 - 🌙 I know French and English and a bit of Spanish
-- 🌱 I’m currently learning JavaScript and PHP
-- 📫 Contact me on Discord *otsu#4214*
+- 📫 Contact me on Discord *otsu77*
 
 
 <h3 align="center">
