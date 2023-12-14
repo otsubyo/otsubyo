@@ -12,7 +12,7 @@ Languages and softwares that I use
 
  <a href="https://skillicons.dev">
   
- <img align="center" img src="https://skillicons.dev/icons?i=html,git,css,c,discord,ps,vscode,py,java,linux,php,"/>
+ <img align="center" img src="https://skillicons.dev/icons?i=js,html,git,css,c,discord,ps,ae,vscode,py,java,linux,php,"/>
   
  </a>
 
