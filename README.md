@@ -16,7 +16,7 @@ Languages and softwares that I use
   
  </a>
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otsubyo&hide=java,ada,c,&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true">    <img  alt="otsubyo's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/otsubyo?cardType=github&theme=tokyonight&preferLogin=true" />  </a>
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otsubyo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) |   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&preferLogin=true"> </a>
 | ------------- | ------------- |
   
 <h3 align="left">Contact me:</h3>
