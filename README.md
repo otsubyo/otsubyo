@@ -1,9 +1,6 @@
 # **Hello there** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 🙌 I'm @otsu
 - 👀 I’m interested in **programmming** and **data manipulation language**
-- 🌙 I know French and English and a bit of Spanish
-- 📫 Contact me on Discord *otsu77*
-
 
 <h3 align="center">
 Languages and softwares that I use
